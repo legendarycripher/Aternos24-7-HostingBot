@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "free.cloudblaze.org:20178",
+    "ip": "free.cloudblaze.org",
     "port": 20178,
     "version": "",
     "try-creative": false
